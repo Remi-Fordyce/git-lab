@@ -54,4 +54,32 @@ Date:   Wed Sep 2 16:53:11 2020 -0400
 
     Initial commit
 
-Answer 9:     
+Answer 9: On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Answer 10: No, The changes committed online were not reflected locally. 
+
+Answer 11:  C:\Users\remin\documents\cs2400\git-lab> git push
+To https://github.com/Remi-Fordyce/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Remi-Fordyce/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes, after issuing the "git pull" command the local version of my README.md file has updated
+
+Answer 13: 
+    Directory: C:\Users\remin\documents\cs2400\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d--h--         9/2/2020   5:38 PM                .git
+-a----         9/2/2020   5:38 PM            302 .gitignore
+-a----         9/2/2020   5:38 PM             11 README.md
+
